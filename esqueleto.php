@@ -1,3 +1,8 @@
+<!-- nombre: Daniel cadenas dominguez
+GitHub: https://github.com/DanyCarter/-DWES_t2_ex_Cadenas_Dominguez_Daniel.git
+-->
+
+
 <?php
 
 include 'articulo.php';
